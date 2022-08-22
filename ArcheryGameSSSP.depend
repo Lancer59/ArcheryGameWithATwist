@@ -18,3 +18,10 @@
 	<GL/glu.h>
 	<stdlib.h>
 
+1658855024 source:d:\inspiron\all projects\archerygamesssp\archeryprojectcg\main.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	<string.h>
+	<stdlib.h>
+
